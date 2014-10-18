@@ -1,0 +1,29 @@
+body
+{
+  font-family:arial, helvetica, sans-serif;
+  font-size:10pt;
+}
+
+td[class*='field']
+{
+  background-color: #006699;
+  color:#FFFFFF;
+  font-weight:bold;
+  border:1px solid #000000;  
+  padding:0px;
+
+}
+
+td[class*='reserved']
+{
+  background-color: #cccccc;  
+  padding:0px;
+}
+
+p
+{
+  margin-top:0em;
+  margin-bottom:0em;
+  padding:0px;
+  line-height: 1em;
+}
